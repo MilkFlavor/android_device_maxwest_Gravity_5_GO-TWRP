@@ -33,4 +33,4 @@
 /data               f2fs      /dev/block/platform/soc/soc:ap-ahb/20600000.sdio/by-name/userdata     flags=display="Data";
 /cache              ext4      /dev/block/platform/soc/soc:ap-ahb/20600000.sdio/by-name/cache        flags=display="Cache";
 /productinfo        ext4      /dev/block/platform/soc/soc:ap-ahb/20600000.sdio/by-name/prodnv       flags=display="Productinfo";
-/sdcard0            vfat      /dev/block/platform/soc/soc:ap-ahb/20300000.sdio/mmcblk1p1            flags=display="Sdcard0";
+/sdcard             vfat      /dev/block/platform/soc/soc:ap-ahb/20300000.sdio/mmcblk1p1            flags=display="Sdcard0";
