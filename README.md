@@ -30,3 +30,5 @@ There are no features. This is a very budget phone.
 
 ## Device Picture
 ![alt text](https://i5.walmartimages.ca/images/Enlarge/159/395/6000200159395.jpg?odnHeight=612&odnWidth=612&odnBg=FFFFFF)
+
+There isn't much to do anymore, this will be the final edit. Thank you for everyone who helped on the way. :)
